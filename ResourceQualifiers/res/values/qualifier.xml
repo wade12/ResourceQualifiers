@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Resource file for 5" mobile phone -->
+	<string name="deviceSpec">Device is on fallback.</string> 
+	<dimen name="textSize">20sp</dimen>
+	<integer name="integer">5</integer>
+	 
+</resources>
